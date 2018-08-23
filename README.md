@@ -8,7 +8,7 @@
 Scuber's drivers are beginning to take some notes down about their customers. Use your knowledge of scope to access and change some of these variables.
 
 ## Instructions
-A word of warning. In this lab, you will practice doing some bad things. For example, we'll ask you to declare variables in global scope, and write functions that break down. We do this, because by testing the limits, and exposing the underbelly of a language you can better understand it, and know what to avoid in the future.
+A word of warning: In this lab, you will practice doing some bad things. For example, we'll ask you to declare variables in global scope and write functions that break down. We do this because testing the limits and exposing the underbelly of a language helps you better understand it and know what to avoid in the future.
 
 Ok, these are your tasks:
 * `customerName`: Declare a variable in global scope called `customerName` using the `var` keyword.
